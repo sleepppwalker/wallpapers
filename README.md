@@ -79,3 +79,4 @@
 # Vertical
 ![vertical1.png](./vertical/vertical1.png)
 ![vertical2.png](./vertical/vertical2.png)
+![vertical3.png](./vertical/vertical3.png)
