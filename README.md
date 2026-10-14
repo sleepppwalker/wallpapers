@@ -78,7 +78,7 @@
 # Illustration
 ![illustration1.png](./illustration/illustration1.png)
 ![illustration2.png](./illustration/illustration2.png)
-![illustration3.png](./illustration/illustration3.png)
+![illustration3.png](./illustration/illustration3.jpg)
 
 # Vertical
 ![vertical1.png](./vertical/vertical1.png)
