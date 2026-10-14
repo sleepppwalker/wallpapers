@@ -3,6 +3,8 @@
 ![boy2.png](./boy/boy2.png)
 ![boy3.png](./boy/boy3.png)
 ![boy4.png](./boy/boy4.png)
+![boy5.png](./boy/boy5.png)
+![boy6.png](./boy/boy6.png)
 
 # Girl
 ![girl1.png](./girl/girl1.png)
@@ -38,6 +40,7 @@
 ![girl31.png](./girl/girl31.png)
 ![girl32.png](./girl/girl32.png)
 ![girl33.png](./girl/girl33.png)
+![girl34.png](./girl/girl33.png)
 
 # Isometric
 ![isometric1.png](./isometric/isometric1.png)
@@ -75,6 +78,7 @@
 # Illustration
 ![illustration1.png](./illustration/illustration1.png)
 ![illustration2.png](./illustration/illustration2.png)
+![illustration3.png](./illustration/illustration3.png)
 
 # Vertical
 ![vertical1.png](./vertical/vertical1.png)
