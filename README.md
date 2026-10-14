@@ -40,7 +40,7 @@
 ![girl31.png](./girl/girl31.png)
 ![girl32.png](./girl/girl32.png)
 ![girl33.png](./girl/girl33.png)
-![girl34.png](./girl/girl34.png)
+![girl34.png](./girl/girl34.jpg)
 
 # Isometric
 ![isometric1.png](./isometric/isometric1.png)
